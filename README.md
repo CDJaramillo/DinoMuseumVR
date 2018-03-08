@@ -4,7 +4,7 @@ Dino Museum VR is for educational use.
 
 ## Getting Started
 
-If you wanna edit this project on Unity make sure you switch it on Android platform. 
+If you wanna edit this project on Unity make sure you switched on Android platform. 
 
 ### Prerequisites
 
