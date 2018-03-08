@@ -34,11 +34,11 @@ In the museum players can see some dinosaurs and images, also a text (on spanish
 
 ### Break down into end to end tests
 
-The principal test are if the waypoints work with the cardboard button, the structure of the museum was good and if the text is smooth
+The principal test are if the waypoints work with the cardboard button, the structure of the museum was good and if the text is easy to read
 
 I use differents type of people and I changed the problems this is my results of my tests with people.
 
-With classmates they saw a problem with the walls, are too bright and give some motion sickness, also the information text are not smoothnes
+With classmates they saw a problem with the walls, are too bright and give some motion sickness, also the information text are not easy to read.
 
 For the solution I've changed the walls with new type of texture, also I use a ceiling, for the text I've changed for a button with a 2D image sprite, and use a script for the player using the cardboard button this text get bigger and easy to read.
 
