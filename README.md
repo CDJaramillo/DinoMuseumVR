@@ -40,7 +40,7 @@ I use differents type of people and I changed the problems this is my results of
 
 With classmates they saw a problem with the walls, are too bright and give some motion sickness, also the information text are not smoothnes
 
-For the solution I've changed the walls with new type of texture, also y use a ceiling, for the text I've changed for a button with a 2D image sprite, and use a script for the player using the cardboard button this text get bigger and easy to read.
+For the solution I've changed the walls with new type of texture, also I use a ceiling, for the text I've changed for a button with a 2D image sprite, and use a script for the player using the cardboard button this text get bigger and easy to read.
 
 With normal people the only problem was the walls.
 
