@@ -63,7 +63,7 @@ You may merge the Pull Request in once you have the sign-off of two other develo
  
 ## Authors
 
-* **Cristian Jaramillo** - *Initial work* - [Dino Museum VR](https://github.com/Chuntaco/DinoMuseumVR)
+* **Cristian Jaramillo** - *Initial work* - [Dino Museum VR](https://github.com/Chuntaco/DinoMuseumVR) also check my [Medium history](https://medium.com/@cristian.chuntaco/dino-museum-vr-8db9979765dc)
 
 ## License
 
