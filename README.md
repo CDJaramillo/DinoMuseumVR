@@ -18,7 +18,7 @@ You need the next software and hardware for use the project.
 
 *A Cardboard
 
-*Android SDK and Java JDK (make sure to install Android Studio and download the SDK, and install the [JDK from here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+*Android [SDK](https://developer.android.com/studio/index.html) and [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ### Installing
 
