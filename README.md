@@ -18,17 +18,18 @@ You need the next software and hardware for use the project.
 
 *A Cardboard
 
-*Android SDK and Java JDK (make sure to install Android Studio and download the SDK, and install de Java JDK from here (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+*Android SDK and Java JDK (make sure to install Android Studio and download the SDK, and install the [Java JDK from here] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ### Installing
 
-First you need Unity 5.6 or above, also you need Android Studio with the SDK and JDK, then you need to create the APK and a compatible smartphone with gyroscope for using the project and a Google Cardboards (or other VR devicee) fo the VR experiencie.
+First you need Unity 5.6 or above, also you need Android Studio with the SDK and JDK, then you need to create the APK and a compatible smartphone with gyroscope for using the project and a Google Cardboards (or other VR device) for the VR experiencie.
 
 If you download the APK from this repository you need a compatible smartphone and a googles VR.
 
 ## Running the tests
 
-The player can move through the museum and use the waypoints (spheres) to move in any direction.
+The player can move through the museum and use the waypoints (spheres) to move on any direction.
+
 In the museum players can see some dinosaurs and images, also a text (on spanish for now) with some information of these creatures.
 
 ### Break down into end to end tests
@@ -72,4 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone who's code was used
 * Inspiration
-* etc
+* Motivation
+* Studies
+* Etc
