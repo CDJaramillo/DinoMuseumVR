@@ -10,15 +10,15 @@ If you wanna edit this project on Unity make sure you switched on Android platfo
 
 You need the next software and hardware for use the project.
 
-*Unity 5.6 or above.
+* Unity 5.6 or above.
 
-*Google VR SDK.
+* Google VR SDK.
 
-*A Smartphone with Android 4.4.4 or above and gyroscope.
+* A Smartphone with Android 4.4.4 or above and gyroscope.
 
-*A Cardboard
+* A Cardboard
 
-*Android [SDK](https://developer.android.com/studio/index.html) and [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* Android [SDK](https://developer.android.com/studio/index.html) and [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ### Installing
 
