@@ -65,6 +65,8 @@ You may merge the Pull Request in once you have the sign-off of two other develo
 
 * **Cristian Jaramillo** - *Initial work* - [Dino Museum VR](https://github.com/Chuntaco/DinoMuseumVR) also check my [Medium history](https://medium.com/@cristian.chuntaco/dino-museum-vr-8db9979765dc)
 
+* **3dregenerator** - *Dinosaurs models* - [3D Models](https://free3d.com/3d-models/?author=3dregenerator) thanks for the models.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
